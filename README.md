@@ -5,7 +5,7 @@ _________________________________________
 
 Các phần được trình bày trong Seminar
 _________________________________________
-1.Giới thiệu về React
-2.Giới thiệu về Redux
-3.Cách kết nối với React-Redux 
-4.Hướng dẫn sử dụng và demo sử dụng React + Redux
+*1.Giới thiệu về React
+*2.Giới thiệu về Redux
+*3.Cách kết nối với React-Redux 
+*4.Hướng dẫn sử dụng và demo sử dụng React + Redux
